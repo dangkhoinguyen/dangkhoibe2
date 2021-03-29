@@ -7,13 +7,12 @@
         {
             "name": "dangkhoinguyen",
             "email": "dangkhoiguyen998@gmail.com",
-			"hompage": "tailieuweb.com"
-        },
+			"homepage": "http://tailieuweb.com"
+        }
     ],
-	"license": "MIT"
+	"license": "MIT",
     "require": {
     },
-   
     "autoload": {
         "psr-4": {
             "Tailieuweb\\Backend\\": "/"
