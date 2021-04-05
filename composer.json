@@ -12,7 +12,7 @@
     ],
 	"license": "MIT",
     "require": {		
-		"thinh0212-patch-1/demo": "*",	
+		"dangkhoinguyen/dangkhoibe2": "*",	
 		
 		},
     "autoload": {
