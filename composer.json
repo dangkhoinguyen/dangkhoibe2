@@ -11,8 +11,10 @@
         }
     ],
 	"license": "MIT",
-    "require": {
-    },
+    "require": {		
+		"thinh0212-patch-1/demo": "*",	
+		
+		},
     "autoload": {
         "psr-4": {
             "Tailieuweb\\Backend\\": "/"
